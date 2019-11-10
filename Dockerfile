@@ -1,0 +1,8 @@
+FROM mysql:8.0.18
+
+# Teste
+# Enviroment
+ENV MYSQL_ROOT_PASSWORD=1AclJu3@I12
+ENV MYSQL_DATABASE=gympoint
+ENV MYSQL_USER=gympoint
+ENV MYSQL_PASSWORD=kJj15nb@jUqe
